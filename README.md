@@ -1,8 +1,8 @@
-# Approbado Server
+## Template Node Backend 
 
 ## Requerimientos
 
-- `postgres ^12`
+- `mysql, postgres, sqlite, mariadb`
 - `node.js ^14`
 
 ## Documentación
